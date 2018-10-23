@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Test_Bluetooth</string>
+    <string name="list_of_paired_devices">list of paired devices</string>
+    <string name="scan">SCAN</string>
+    <string name="enable_bluetooth">enable Bluetooth</string>
+</resources>
